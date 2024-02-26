@@ -46,7 +46,7 @@ I'm a B.Sc. candidate in Computer and Communication Engineering at Mansoura Univ
 - Supported HR team for collaboration
 - Resolved member-related issues aligning with business objectives
   
-### CAT Reloaded Team - Artificial Intelligence Circle Member (2022)
+### CAT Reloaded Team - Artificial Intelligence Circle Member (2021)
 
 - Participated in ML and DL projects
 - Engaged in team discussions and workshops
