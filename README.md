@@ -4,9 +4,9 @@ I'm a **B.Sc. graduate** in Computer and Communication Engineering from Mansoura
 
 ## About Me
 
-- **Education**: Graduated with a B.Sc. in Computer and Communication Engineering from Mansoura University in June 2024.
+- **Education**: Graduated with a B.Sc. in Computer and Communication Engineering from Mansoura University in June 2024 with a GPA of 3.54.
   
-- **Interest Areas**: AI, Computer Vision, NLP
+- **Interest Areas**: Data Science, AI, Computer Vision, NLP
   
 
 ## Projects
@@ -61,6 +61,9 @@ I'm a **B.Sc. graduate** in Computer and Communication Engineering from Mansoura
 - Data Analysis
 - Machine Learning
 - Deep Learning
+- SQL
+- Git & GitHub
+- Linux
 
 ### Interpersonal
 
@@ -68,6 +71,7 @@ I'm a **B.Sc. graduate** in Computer and Communication Engineering from Mansoura
 - Leadership
 - Presentation
 - Self-learning
+- Multilingual
 
 ### Languages
 
