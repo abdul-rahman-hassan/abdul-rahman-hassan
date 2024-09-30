@@ -1,10 +1,10 @@
-# Hello, I'm Abdulrahman ! 👋
+# Hello, I'm Abdulrahman! 👋
 
-I'm a B.Sc. candidate in Computer and Communication Engineering at Mansoura University, with a passion for Artificial Intelligence (AI), Computer Vision, and Natural Language Processing (NLP). Here's a snapshot of my journey and skills:
+I'm a **B.Sc. graduate** in Computer and Communication Engineering from Mansoura University, with a passion for Artificial Intelligence (AI), Computer Vision, and Natural Language Processing (NLP). Here's a snapshot of my journey and skills:
 
 ## About Me
 
-- **Education**: Pursuing B.Sc. in Computer and Communication Engineering at Mansoura University, expected to graduate in June 2024.
+- **Education**: Graduated with a B.Sc. in Computer and Communication Engineering from Mansoura University in June 2024.
   
 - **Interest Areas**: AI, Computer Vision, NLP
   
@@ -73,7 +73,7 @@ I'm a B.Sc. candidate in Computer and Communication Engineering at Mansoura Univ
 
 - Arabic   (native)
 - English  (proficient)
-- Japanese ( beginner )
+- Japanese (beginner)
 
 ## Certificates
 
