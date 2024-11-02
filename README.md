@@ -1,4 +1,4 @@
-# Hello, I'm Abdulrahman! 👋
+# Hello, my name is Abdulrahman Hassan
 
 I'm a **B.Sc. graduate** in Computer and Communication Engineering from Mansoura University, with a passion for Artificial Intelligence (AI) and Natural Language Processing (NLP).
 
