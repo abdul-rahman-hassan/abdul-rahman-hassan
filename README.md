@@ -80,17 +80,7 @@ A convolutional neural network model to classify landmarks from images, utilizin
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abdul-rahman-hassan&show_icons=true&hide=issues,contribs&theme=dark&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abdul-rahman-hassan&layout=compact&theme=dark&hide_border=true"
-  />
-</p>
+[![Abdulrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdul-rahman-hassan)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
