@@ -46,8 +46,6 @@ Building intelligent systems with deep learning, focused on real-world Natural L
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/NLP-4CAF50?style=flat"/>
 
 </p>
@@ -74,24 +72,6 @@ A convolutional neural network model to classify landmarks from images, utilizin
 
 ---
 
-<div align="center">
-  <img src="https://via.placeholder.com/1200x400" width="100%" />
-</div>
-
-<h3 align="center">🤖 NLP Experiments</h3>
-
-<p align="center">
-Collection of NLP experiments including embeddings and sequence models.
-</p>
-
-<p align="center">
-<a href="https://github.com/abdul-rahman-hassan/nlp-experiments">
-🔗 View Repository
-</a>
-</p>
-
----
-
 ## 🎯 Current Focus
 - NLP fundamentals & text representations  
 - Sequence models & attention mechanisms  
@@ -100,9 +80,8 @@ Collection of NLP experiments including embeddings and sequence models.
 
 ## 📈 GitHub Stats
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=abdul-rahman-hassan&show_icons=true&hide=issues,contribs&theme=dark"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdul-rahman-hassan&show_icons=true&hide=issues,contribs&theme=dark&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-rahman-hassan&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
 
 ---
 
