@@ -56,18 +56,18 @@ Building intelligent systems with deep learning, focused on real-world Natural L
 
 **Classification of Autism Spectrum Disorder**  
 TensorFlow · Computer Vision · Neural Networks  
-<sub>
+
 Developed a deep learning model to classify autism spectrum disorder eye-tracking data with high accuracy.
-</sub>  
+
 🔗 https://github.com/abdul-rahman-hassan/Classification-of-Autism-Spectrum-Disorder
 
 ---
 
 **Landmark Classification**  
 CNN · Computer Vision · PyTorch 
-<sub>
+
 A convolutional neural network model to classify landmarks from images, utilizing data augmentation and preprocessing techniques.
-</sub>  
+
 🔗 https://github.com/abdul-rahman-hassan/sentiment-analysis
 
 ---
