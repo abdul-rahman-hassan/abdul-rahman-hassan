@@ -66,7 +66,7 @@ Developed a deep learning model to classify autism spectrum disorder eye-trackin
 **Landmark Classification**  
 CNN · Computer Vision · PyTorch 
 
-A convolutional neural network model to classify landmarks from images, utilizing data augmentation and preprocessing techniques.
+A convolutional neural network model to classify landmarks from images.
 
 🔗 https://github.com/abdul-rahman-hassan/sentiment-analysis
 
