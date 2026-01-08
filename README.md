@@ -1,45 +1,114 @@
-# 👋 Hi, I'm Abdulrahman Hassan
+<div align="center">
 
-AI Engineer | Deep Learning & Natural Language Processing
+# Hi there, I'm Abdulrahman 👋
 
-I am a Computer and Communication Engineering graduate with a strong focus on building and understanding deep learning models, especially for NLP tasks.
+### AI Engineer | Deep Learning & NLP
+
+<p>
+Building intelligent systems with deep learning, focused on real-world Natural Language Processing problems.
+</p>
+
+</div>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/abdul-rahman-hassan/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>  
+<a href="https://github.com/abdul-rahman-hassan">
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://abdul-rahman-hassan.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge"/>
+</a>
+
+</div>
 
 ---
 
-## 🎓 Education
-- **B.Sc. in Computer and Communication Engineering**
-  - Mansoura University — June 2024
-  - GPA: **3.56**
+## 👨‍💻 About Me
+- 🎓 B.Sc. in Computer & Communication Engineering — Mansoura University  
+- ⭐ GPA: **3.56**
+- 🧠 Focused on **Deep Learning & Natural Language Processing**
+- 🚀 Turning theory into production-ready AI models
 
 ---
 
-## 🧠 Technical Interests
-- Artificial Intelligence
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
+## 🛠 Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-4CAF50?style=flat"/>
+
+</p>
 
 ---
 
-## 🛠 Technical Skills
-**Programming**
-- Python
+## 🚀 Featured Projects
 
-**Deep Learning & ML**
-- Neural Networks
-- CNNs, RNNs
-- Optimization and model evaluation
+**Classification of Autism Spectrum Disorder**  
+TensorFlow · Computer Vision · Neural Networks  
+<sub>
+Developed a deep learning model to classify autism spectrum disorder eye-tracking data with high accuracy.
+</sub>  
+🔗 https://github.com/abdul-rahman-hassan/Classification-of-Autism-Spectrum-Disorder
 
-**Frameworks & Tools**
-- PyTorch
-- TensorFlow / Keras
-- NumPy, Pandas
-- Scikit-learn
+---
+
+**Landmark Classification**  
+CNN · Computer Vision · PyTorch 
+<sub>
+A convolutional neural network model to classify landmarks from images, utilizing data augmentation and preprocessing techniques.
+</sub>  
+🔗 https://github.com/abdul-rahman-hassan/sentiment-analysis
+
+---
+
+<div align="center">
+  <img src="https://via.placeholder.com/1200x400" width="100%" />
+</div>
+
+<h3 align="center">🤖 NLP Experiments</h3>
+
+<p align="center">
+Collection of NLP experiments including embeddings and sequence models.
+</p>
+
+<p align="center">
+<a href="https://github.com/abdul-rahman-hassan/nlp-experiments">
+🔗 View Repository
+</a>
+</p>
 
 ---
 
 ## 🎯 Current Focus
-- NLP fundamentals and text representations
-- Sequence models and attention mechanisms
-- Building end-to-end NLP projects
+- NLP fundamentals & text representations  
+- Sequence models & attention mechanisms  
 
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=abdul-rahman-hassan&show_icons=true&hide=issues,contribs&theme=dark"/>
+</p>
+
+---
+
+<div align="center">
+
+📬 **Let’s Connect**  
+Always open to collaboration, research, and building impactful AI systems.
+
+</div>
